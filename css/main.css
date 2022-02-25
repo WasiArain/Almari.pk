@@ -100,8 +100,13 @@ a:hover {
     transition: none;
 }
 
+.modal-container .modal p span {
+    font-style: italic;
+    color: #ff2020;
+}
+
 .modal-container .modal a {
-    color: #d23232;
+    color: #25D366;
     text-decoration: underline;
     transition: none;
 }
