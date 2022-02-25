@@ -103,6 +103,7 @@ a:hover {
 .modal-container .modal p span {
     font-style: italic;
     color: #ff2020;
+    transition: none;
 }
 
 .modal-container .modal a {
